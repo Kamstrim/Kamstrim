@@ -1,8 +1,8 @@
 ##  Hi! 👋
-I'm Dmitry, а novice PHP developer.
+I'm Dmitry, а novice Python developer.
 
 ## Skills
-- 👨‍💻  PHP
+- 👨‍💻  Python
 - 👁️ HTML, CSS
 - 💽 MySQL
 - ⚙️ Git and GitHub
