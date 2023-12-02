@@ -20,8 +20,8 @@
 
 ## Contact
 
-Telegram: https://t.me/@kamstrim
-E-mail: kamstrim@mail.ru
+- Telegram: https://t.me/@kamstrim
+- E-mail: kamstrim@mail.ru
 
 ![](https://komarev.com/ghpvc/?username=Kamstrim&color=brightgreen)
 
