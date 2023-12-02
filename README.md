@@ -4,6 +4,21 @@
 
 Я люблю решать сложные задачи и постоянно учиться новому. Я готов работать как самостоятельно, так и в команде, я организован, целеустремлен и всегда соблюдаю сроки. Моя цель - продолжать развиваться в этой области. В данный момент я активно ищу работу и открыт для предложений.
 
+## Проекты Python Developer
+
+* [Foodgram - Сервис для публикации и обмена рецептами.](https://github.com/kamstrim/foodgram-project-react)
+
+* [Проект YaMDb - API для базы отзывов пользователей о фильмах, книгах и музыке.](https://github.com/kamstrim/api_yamdb)
+
+* [Kittygram - Cоциальная сеть, для любителей кошек.](https://github.com/kamstrim/kittygram_final)
+
+* [Yatube - Cоциальная сеть для публикации личных дневников.](https://github.com/kamstrim/yatube)
+
+* [Rest-api для Yatube](https://github.com/kamstrim/api_final_yatube)
+
+* [Telegram bot для оповещения о статусе code-review.](https://github.com/kamstrim/homework_bot)
+
+
 ## Skills
 
 <div>
